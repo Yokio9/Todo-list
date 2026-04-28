@@ -1,4 +1,4 @@
-# ToDoList (C# Console App)
+# ToDo List (C# Console App)
 
 A simple command-line TODO list application built with C#.
 
